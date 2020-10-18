@@ -321,7 +321,7 @@ input.button {
 	float: right;
 	width: 20%;
 	padding: 0; 
-	margin-right: 0;
+	margin-right: -25px;
 	/* margin: 0;	 */
 	/* padding-right: 0; */
 	color: rgb(102, 201, 45);	

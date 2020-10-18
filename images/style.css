@@ -321,7 +321,8 @@ input.button {
 	
 	float: right;
 	width: 28%;
-	padding: 0; 
+	/* padding: 0;  */
+	
 	margin-right: -30px;
 	margin-top: -10px;
 	/* margin: 0;	 */

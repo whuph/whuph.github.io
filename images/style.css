@@ -196,6 +196,11 @@ input.button {
 	padding: 0;	
 	color: #FFF;	
 }
+
+#right-top a{
+	font-size: 15px;
+}
+
 #header h1#logo-text a {
 	position: absolute;
 	margin: 0; padding: 0;

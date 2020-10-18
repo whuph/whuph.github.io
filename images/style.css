@@ -359,6 +359,13 @@ input.button {
 #sidebar ul.sidemenu ul { margin: 0 0 0 5px; padding: 0; }
 #sidebar ul.sidemenu ul li { background: none; }
 
+#map{
+	margin: 0 auto;
+ }
+ #map img{
+	 margin-left: 2px;
+ }
+ 
 
 /* Footer */	
 #footer {

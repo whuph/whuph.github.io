@@ -302,6 +302,12 @@ input.button {
 	list-style-image: url(bullet.gif);
 }
 
+
+#email{
+	margin-top: 20px;
+}
+
+
 .post-footer {
 	background-color: #FAFAFA;
 	padding: 5px; margin: 20px 10px 10px 10px;

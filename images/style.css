@@ -201,7 +201,8 @@ input.button {
 	/* background: #CCC url(header.jpg) no-repeat center top; */
 	background-color: rgb(120, 248, 242);
 	padding: 0;	
-	color: #FFF;	
+	/* color: #FFF;	 */
+	/* color: rgb(31, 228, 228); */
 }
 
 #right-top a{
